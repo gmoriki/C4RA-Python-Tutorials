@@ -18,3 +18,7 @@
 ### 質問等
 * Pythonに関する不明点があれば森木(Pumble,Mail,Twitter等)までご連絡ください
 * 勉強会の内容でなくてもOKです（Colabの使い方や環境構築なども）
+
+### シラバス
+* 勉強会開始当初の想定です。変更が生じる場合があります。
+![Syllibus](./mindmap_for_pythonsyllabus.png "C4RA Python勉強会シラバス")
