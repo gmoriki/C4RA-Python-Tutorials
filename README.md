@@ -29,7 +29,7 @@
 | 5月26日 | [制御構造と関数](./0526/0526_Tutorial.ipynb)     |
 | 6月2日  | [pandasの概要とファイル入出力](./0602/0602_Tutorial.ipynb) |
 | 6月9日  | [DataFrameのデータ抽出と選択・整形](./0609/0609_Tutorial.ipynb) |
-| 6月16日  | DataFrameのデータ統計と集計 |
+| 6月16日  | [DataFrameのデータ統計と集計](./0616/0616_Tutorial.ipynb) |
 | 6月23日  | DataFrameのデータ結合・マージ |
 | 6月30日  | データ可視化 |
 
