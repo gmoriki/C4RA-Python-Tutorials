@@ -30,10 +30,8 @@
 | 6月2日  | [pandasの概要とファイル入出力](./0602/0602_Tutorial.ipynb) |
 | 6月9日  | [DataFrameのデータ抽出と選択・整形](./0609/0609_Tutorial.ipynb) |
 | 6月16日  | [DataFrameのデータ統計と集計](./0616/0616_Tutorial.ipynb) |
-| 6月23日  | DataFrameのデータ結合・マージ |
-| 6月30日  | データ可視化 |
-
-
+| 6月23日  | [DataFrameのデータ結合・マージ](./0623/0623_Tutorial.ipynb) |
+| 6月30日  | [データ可視化](./0630/0630_Tutorial.ipynb) |
   
 ### シラバス(全体マップ)
 ![Syllibus](./mindmap_for_pythonsyllabus.png "C4RA Python勉強会シラバス")
